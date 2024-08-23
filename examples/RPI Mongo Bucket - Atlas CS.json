@@ -5,8 +5,8 @@
       "label": "RPI - Atlas",
       "description": "",
       "type": "datasource",
-      "pluginId": "grafana-mongodb-datasource",
-      "pluginName": "MongoDB"
+      "pluginId": "grafana-mongodb-datasource-custom",
+      "pluginName": "MongoDB-custom"
     }
   ],
   "__requires": [
@@ -18,8 +18,8 @@
     },
     {
       "type": "datasource",
-      "id": "grafana-mongodb-datasource",
-      "name": "MongoDB",
+      "id": "grafana-mongodb-datasource-custom",
+      "name": "MongoDB-custom",
       "version": "0.8.1"
     },
     {
